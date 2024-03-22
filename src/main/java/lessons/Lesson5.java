@@ -1,7 +1,5 @@
 package lessons;
 
-import java.util.Arrays;
-
 public class Lesson5 {
 	public static void main(String[] args) {
 		Animal cat = new Animal(10, "Tortik");
